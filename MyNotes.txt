@@ -1,0 +1,2 @@
+aws configure --profile A4L-MASTER
+aws configure --profile A4L-MASTER
